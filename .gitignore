@@ -12,3 +12,6 @@ logs
 results
 
 npm-debug.log
+
+server.js.logs
+server.js.debug
